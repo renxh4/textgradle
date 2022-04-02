@@ -1,0 +1,7 @@
+com/kezong/fataar/AndroidArchiveLibrary.java
+ com.kezong.fataar.AndroidArchiveLibrary
+com/kezong/fataar/LibraryManifestMerger.java
+ com.kezong.fataar.LibraryManifestMerger
+ com.kezong.fataar.LibraryManifestMerger$1
+com/kezong/fataar/RClassesTransform.java
+ com.kezong.fataar.RClassesTransform
