@@ -117,7 +117,7 @@ class FatAarplugin implements Plugin< Project> {
 
             if (!artifacts.isEmpty()) {
                 def processor = new VariantProcessor(project, variant)
-                processor.processVariant(artifacts, firstLevelDependencies, transform)
+//                processor.processVariant(artifacts, firstLevelDependencies, transform)
             }
         }
     }

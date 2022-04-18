@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         TextView java = findViewById(R.id.javatext);
         TextView kotlin = findViewById(R.id.kotlintext);
 
-        java.setText("java更改1");
+        java.setText("java更改1234");
 
         kotlin.setText(new AAA().gettext());
     }

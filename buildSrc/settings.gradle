@@ -1,6 +1,6 @@
 includeFlat 'lib'
 include ':lib'
 
-//includeFlat 'fat-aar'
-//include ':fat-aar'
+includeFlat 'fat-aar'
+include ':fat-aar'
 
