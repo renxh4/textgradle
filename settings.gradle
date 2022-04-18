@@ -1,2 +1,3 @@
-rootProject.name = "gradle"
+rootProject.name = "testwink"
 include ':app'
+include ':wink-patch-lib'
